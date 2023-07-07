@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vadim700.github.io/react-sneakers/static/css/main.02fe194b.css",
+    "main.js": "/vadim700.github.io/react-sneakers/static/js/main.aacc0547.js",
+    "index.html": "/vadim700.github.io/react-sneakers/index.html",
+    "main.02fe194b.css.map": "/vadim700.github.io/react-sneakers/static/css/main.02fe194b.css.map",
+    "main.aacc0547.js.map": "/vadim700.github.io/react-sneakers/static/js/main.aacc0547.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02fe194b.css",
+    "static/js/main.aacc0547.js"
+  ]
+}
